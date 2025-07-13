@@ -1,0 +1,24 @@
+{
+  "name": "passgenerator",
+  "version": "1.0.0",
+  "description": "A website to generate password",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamilbin/passGenerator.git"
+  },
+  "author": "Shamil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamilbin/passGenerator/issues"
+  },
+  "homepage": "https://github.com/shamilbin/passGenerator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
